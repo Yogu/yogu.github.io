@@ -26,4 +26,27 @@ topics:
 
   - name: ArangoDB
     web_url: https://www.arangodb.com/
-    image_url: https://www.arangodb.com/wp-content/uploads/2016/05/ArangoDB_logo_avocado_@1.png
+    image_url: https://www.vectorlogo.zone/logos/arangodb/arangodb-icon.svg
+
+repos:
+  - html_url: https://github.com/AEB-labs/graphql-weaver
+    owner:
+      login: AEB-labs
+    name: graphql-weaver
+    description: A tool to combine, link and transform GraphQL schemas
+    stargazers_count: 176
+    forks_count: 13
+  - html_url: https://github.com/AEB-labs/cruddl
+    owner:
+      login: AEB-labs
+    name: cruddl
+    description: Create a GraphQL API for your database, using the GraphQL SDL to model your schema.
+    stargazers_count: 48
+    forks_count: 4
+  - html_url: https://github.com/vita-us/ViTA
+    owner:
+      login: vita-us
+    name: ViTA
+    description: Visual Text Analytics for Digital Humanities
+    stargazers_count: 4
+    forks_count: 0
