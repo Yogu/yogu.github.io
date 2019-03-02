@@ -50,6 +50,7 @@ repos:
     description: Visual Text Analytics for Digital Humanities
     stargazers_count: 4
     forks_count: 0
+    homepage: http://minuet.visus.uni-stuttgart.de/#/documents
   - html_url: https://github.com/clustercompare/clustercompare
     owner:
       login: clustercompare
@@ -57,3 +58,4 @@ repos:
     description: Visual Comparison of Software Modularizations to Multiple Clustering Results
     stargazers_count: 2
     forks_count: 0
+    homepage: https://clustercompare.jan-melcher.de/
