@@ -16,12 +16,14 @@ defaults:
       layout: "post"
 
 topics:
-  - name: CSS
-    web_url: https://github.com/topics/css
-    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/css/css.png
+  - name: GraphQL
+    web_url: https://graphql.org/
+    image_url: https://graphql.org/img/logo.svg
 
-  - name: Web design
+  - name: Kubernetes
+    web_url: https://kubernetes.io/
+    image_url: https://kubernetes.io/images/nav_logo.svg
 
-  - name: Sass
-    web_url: https://github.com/topics/sass
-    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/sass/sass.png
+  - name: ArangoDB
+    web_url: https://www.arangodb.com/
+    image_url: https://www.arangodb.com/wp-content/uploads/2016/05/ArangoDB_logo_avocado_@1.png
