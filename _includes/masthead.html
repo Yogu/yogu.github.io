@@ -34,6 +34,19 @@
         {{ user.location }}
       </div>
     {% endif %}
+    <div class="{{ metadata_styles }} {% if site.style == 'dark' %}text-white{% endif %}">
+      {% octicon organization height:20 class:"mr-2 v-align-middle" fill:{{ icon_color }} aria-label:Location %}
+      Working&nbsp;<a href="https://www.aeb.com" {% if site.style == 'dark' %}class="text-white"{% endif %}>@AEB</a>
+    </div>
+    <div class="{{ metadata_styles }} {% if site.style == 'dark' %}text-white{% endif %}">
+      {% octicon book height:20 class:"mr-2 v-align-middle" fill:{{ icon_color }} aria-label:Location %}
+      My&nbsp;<a href="https://stackoverflow.com/story/jan.melcher" {% if site.style == 'dark' %}class="text-white"{% endif %}>Developer Story</a>
+    </div>
+    <div class="{{ metadata_styles }} {% if site.style == 'dark' %}text-white{% endif %}">
+      {% octicon heart height:20 class:"mr-2 v-align-middle" fill:{{ icon_color }} aria-label:Location %}
+      Co-founded&nbsp;<a href="https://www.wissen-a5.de/" {% if site.style == 'dark' %}class="text-white"{% endif %}>WissenA5</a>
+    </div>
+    
     {% if user.hireable %}
       <span title="Hire me" class="d-inline-block f5 rounded-2 text-white bg-green py-1 px-2">Available for hire</span>
     {% endif %}
