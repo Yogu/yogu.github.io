@@ -34,21 +34,21 @@ repos:
       login: AEB-labs
     name: graphql-weaver
     description: A tool to combine, link and transform GraphQL schemas
-    stargazers_count: 178
+    stargazers_count: 189
     forks_count: 13
   - html_url: https://github.com/AEB-labs/cruddl
     owner:
       login: AEB-labs
     name: cruddl
     description: Create a GraphQL API for your database, using the GraphQL SDL to model your schema.
-    stargazers_count: 49
-    forks_count: 4
+    stargazers_count: 57
+    forks_count: 10
   - html_url: https://github.com/vita-us/ViTA
     owner:
       login: vita-us
     name: ViTA
     description: Visual Text Analytics for Digital Humanities
-    stargazers_count: 4
+    stargazers_count: 5
     forks_count: 0
     homepage: http://minuet.visus.uni-stuttgart.de/#/documents
   - html_url: https://github.com/clustercompare/clustercompare
